@@ -26,3 +26,25 @@ and sends data to the internet for real-time monitoring.
 - Jumper wires
 - USB cable
 - WiFi internet
+
+##  Output
+
+- Live Temperature (°C)
+- Humidity (%)
+- Data shown on:
+- Serial Monitor
+- ThingSpeak Dashboard
+- 
+## 📡 Applications
+
+- Smart farming 🌾
+- Weather monitoring 🌦️
+- Smart cities 🏙️
+- Home automatio
+- 
+  ## Features
+  
+- Real-time IoT system
+- Low cost project
+- Easy to build
+- Mobile monitoring possible
